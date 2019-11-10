@@ -1,4 +1,5 @@
 <Project>
   <ItemGroup>
+    <PackageReference Update="RavenDB.Embedded" Version="4.2.4"/>
   </ItemGroup>
 </Project>
